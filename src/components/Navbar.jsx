@@ -13,7 +13,7 @@ const Navbar = () => {
   <div className="flex-1">
     <div className='flex items-center gap-1'>
         <img className='w-6 h-full' src={logo} alt="" />
-        <h1 className="text-xl font-bold ">DasH<span className='text-blue-600'>Board</span></h1>
+        <h1 className="text-xl font-bold ">Dash<span className='text-blue-600'>Board</span></h1>
     </div>
   </div>
   <div className="flex-none">
