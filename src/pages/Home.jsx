@@ -26,7 +26,7 @@ const Home = () => {
               </span>
             </h2>
             <p className="text-base text-gray-700 md:text-lg">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas maxime sapiente omnis iste minima optio quam nihil, consequatur eligendi atque autem sint hic ex iure nostrum numquam modi. Aliquam, dolores!
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur eligendi atque autem sint hic ex iure nostrum numquam modi. Aliquam, dolores!
             </p>
           </div>
           <div className="flex flex-col items-center md:flex-row">
